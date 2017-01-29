@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923963570213",
+    "firebase_url": "https://scholarship-f15f8.firebaseio.com",
+    "project_id": "scholarship-f15f8",
+    "storage_bucket": "scholarship-f15f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923963570213:android:ec4630d643255c4f",
+        "android_client_info": {
+          "package_name": "kg.kloop.rinat.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923963570213-m6fqmut0sqjt90qtmv9t1547psqgong8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.kloop.rinat.myapplication",
+            "certificate_hash": "E0A9582FCD0496287E6EDB1BCA4A4A5577130018"
+          }
+        },
+        {
+          "client_id": "923963570213-nv4u903617l60hsqsep2dv74m73m0d8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0UMkCxuDZil-iUvW3_hU5ul67HydWtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923963570213-nv4u903617l60hsqsep2dv74m73m0d8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
